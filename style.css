@@ -79,6 +79,7 @@ button {
   height: 49px;
   border-radius: 4px;
   border: solid #bb99dd 2px;
+  
 }
 
 a {
@@ -86,5 +87,9 @@ a {
   color: #bb99dd;
 }
 
+.icon-container{
+
+    margin-top: 80px;
+}
 
 
