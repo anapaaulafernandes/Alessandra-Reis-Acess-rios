@@ -66,7 +66,8 @@ div {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  gap: 16px;
+  gap: 30px;
+  margin-top: 20px;
 }
 
 button {
@@ -80,6 +81,8 @@ button {
   border-radius: 4px;
   border: solid #bb99dd 2px;
   
+  
+  
 }
 
 a {
@@ -89,7 +92,7 @@ a {
 
 .icon-container{
 
-    margin-top: 80px;
+    margin-top: 30px;
 }
 
 
